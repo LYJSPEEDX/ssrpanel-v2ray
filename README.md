@@ -1,17 +1,3 @@
-## 项目描述
-SSRPanel的V2ray节点端
-
-SSRPanel面板: 
-[https://github.com/ssrpanel/SSRPanel](https://github.com/ssrpanel/SSRPanel)
-
-## 准备
-
-- 先去v2ray.com熟悉一下V2ray的基本配置
-- 先去v2ray.com熟悉一下V2ray的基本配置
-- 先去v2ray.com熟悉一下V2ray的基本配置
-- 我管的是如何将V2ray连接面板，不是教你们怎么配置V2ray的
-- 我管的是如何将V2ray连接面板，不是教你们怎么配置V2ray的
-- 我管的是如何将V2ray连接面板，不是教你们怎么配置V2ray的
 
 ## 环境配置
 
@@ -22,12 +8,6 @@ sudo apt install openjdk-8-jdk
 # centos
 yum install java-1.8.0-openjdk java-1.8.0-openjdk-devel
 ```
-
-## ~~配置V2ray~~ 
-
-~~下载V2ray~~  
-~~在 config.json 中按自己希求修改一些的配置~~  
-(v0.0.3以上已自动下载更新)  
 
 ## 配置SSRPanel后台
 
